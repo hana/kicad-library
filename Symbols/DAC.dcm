@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCM5142
+D 2-VRMSDirectPathTM, 112/106-dBAudioStereoDAC With 32-bit, 384-kHz PCM Interface
+F https://www.ti.com/lit/ds/symlink/pcm5141.pdf
+$ENDCMP
+#
+$CMP PCM5242
+D PCM5242 4.2Vrms DirectPath, 114dB Stereo Differential-Output DAC with32-bit, 384-kHz PCM Interface, I2C
+K DAC, I2C
+F https://www.tij.co.jp/jp/lit/ds/symlink/pcm5242.pdf
+$ENDCMP
+#
+#End Doc Library

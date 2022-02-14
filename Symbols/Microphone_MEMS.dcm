@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ICS-40730
+D TDK InvenSense, Ultra-Low Noise Microphone with Differential Output
+K Microphone, MEMS, TDK
+F https://invensense.tdk.com/download-pdf/ics-40730-datasheet/
+$ENDCMP
+#
+#End Doc Library

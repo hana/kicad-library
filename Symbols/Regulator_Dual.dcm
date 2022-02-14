@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS65133
+D ±5V, 250mA Dual-Output Power Supply
+K Power Supply, dual output, negative voltage
+F https://www.ti.com/lit/ds/symlink/tps65133.pdf
+$ENDCMP
+#
+$CMP TPS65135
+D Single-Inductor, Multiple-Output Regulator
+F https://www.tij.co.jp/jp/lit/ds/symlink/tps65135.pdf?ts=1611689792437
+$ENDCMP
+#
+#End Doc Library
